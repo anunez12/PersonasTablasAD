@@ -29,7 +29,7 @@ public class Persona {
         this.cedula = cedula;
     }
 
-    public String getNombre() {
+    public String getNombre() {                                    
         return nombre;
     }
 
